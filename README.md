@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Tutorial 2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This tutorial deals with Code Management and Deployment with GitLab and Heroku.
 
-## Available Scripts
+* *Date Created*: 22 May 2022
+* *Last Modification Date*: 23 May 2022
+* *GitHub URL*: <https://github.com/Tech-Knight-Danny/tutorial2>
+* *GitLab  URL*: https://git.cs.dal.ca/benny/tutorial2
+* *Group Project URL*: https://git.cs.dal.ca/ayushv/group24_expensetracker
 
-In the project directory, you can run:
+## Authors
 
-### `npm start`
+* [Benny Daniel Tharigopala](bn489600@dal.ca) - *(Developer)*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To have a local copy of this tutorial up and running on your local machine, you will first need to install the following software / libraries / plug-ins
 
-### `npm run build`
+```
+Git CLI
+Heroku CLI
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+See the following section for detailed step-by-step instructions on how to install this software
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Refer to the following documents for notes on installation:
 
-### `npm run eject`
+1. Git - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+2. Heroku - https://devcenter.heroku.com/articles/heroku-cli
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## URLS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+|               Title               |                   URL                    |
+| :-------------------------------: | :--------------------------------------: |
+|     Group Project GitLab URL      | https://git.cs.dal.ca/ayushv/group24_expensetracker |
+| Abhishek Uppe - GitLab Branch URL | https://git.cs.dal.ca/ayushv/group24_expensetracker/-/tree/abhishek-uppe-b00885768 |
+|  Ayush Verma- GitLab Branch URL   | https://git.cs.dal.ca/ayushv/group24_expensetracker/-/tree/ayush-verma-b00893024 |
+|  Benny Daniel- GitLab Branch URL  | https://git.cs.dal.ca/ayushv/group24_expensetracker/-/tree/benny-tharigopala-b008996+29 |
+| Devarshi Vyas- GitLab Branch URL  | https://git.cs.dal.ca/ayushv/group24_expensetracker/-/tree/devarshi-vyas-b00878443 |
+|  Smit Thakkar- GitLab Branch URL  | https://git.cs.dal.ca/ayushv/group24_expensetracker/-/tree/smit-thakkar-b00896215 |
+|  Vatsal Yadav- GitLab Branch URL  | https://git.cs.dal.ca/ayushv/group24_expensetracker/-/tree/vatsal-yadav-b00893030 |
+|    Individual Application URL     | https://tutorial2-csci-5709.herokuapp.com/ |
+| Individual Application GitLab URL |  https://git.cs.dal.ca/benny/tutorial2   |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Built With
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [REACTJS](https://reactjs.org/) - The JavaScript library used for building the application.
 
-### Code Splitting
+## Sources Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[1]	Hall, Mars. “Heroku Buildpack for Create-React-App.” *GitHub*, 3 Feb. 2022, github.com/mars/create-react-app-buildpack#usage. Accessed 23 May 2022.
 
-### Analyzing the Bundle Size
+[2]	“Deploying React with Zero Configuration.” *Blog.heroku.com*, 16 Aug. 2016, blog.heroku.com/deploying-react-with-zero-configuration. Accessed 23 May 2022.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 
